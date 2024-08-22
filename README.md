@@ -55,5 +55,5 @@ Para utilizar en un servidor de manera REMOTA, descargar el repositorio y en una
   
     ● Configurar/cambiar el puerto en caso de ser necesario
   
-    ● Realizar las consultas con Postman o similar
+    ● Realizar las consultas con Postman o similar EJ: http://localhost:puerto/api/v1/getInfo
   
