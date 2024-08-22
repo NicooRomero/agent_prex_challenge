@@ -5,6 +5,7 @@ Agente que permita la recolección de la siguiente información del
 sistema operativo de donde se ejecuta, y posteriormente la envíe a un API de recolección.
 
   ● Información sobre el procesador.
+  
   ● Listado de procesos corriendo.
   ● Usuarios con una sesión abierta en el sistema.
   ● Nombre del sistema operativo.
